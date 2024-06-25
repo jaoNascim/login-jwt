@@ -4,7 +4,7 @@ A simple JWT Authentication made with GO.
 
 <h3>Technologys:</h3>
 
-<li>GO 1.22.4</li>
+<li>GO (1.22.4)</li>
 <li>Postman</li>
 
 <h3>Utilities:</h3>
